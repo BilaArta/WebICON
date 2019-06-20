@@ -1,0 +1,21 @@
+body {
+    background-color: #f1f2f6
+}
+
+.nav {
+    background-color: #2f3542
+}
+
+.nav li a {
+    color: #f1f2f6
+}
+
+.active {
+    background-color: #f1f2f6 !important
+}
+
+.row button {
+    height: -20px !important
+}
+
+
