@@ -21,13 +21,13 @@ app.set('views', path.join(__dirname, 'public'));
 //=============== Firebase ======================
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDJEeiSWAfbwI9dbqAK0vBKGq8TEZ5IfbI",
-    authDomain: "iconproject-f66b2.firebaseapp.com",
-    databaseURL: "https://iconproject-f66b2.firebaseio.com",
-    projectId: "iconproject-f66b2",
-    storageBucket: "iconproject-f66b2.appspot.com",
-    messagingSenderId: "852622610852",
-    appId: "1:852622610852:web:1f26111fd604ad5b"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: ""
 };
 
 firebase.initializeApp(firebaseConfig);
